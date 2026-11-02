@@ -2,6 +2,7 @@
   <Folder Name="/Solution Items/">
     <File Path=".env.example" />
     <File Path=".gitignore" />
+    <File Path="docker-compose.yml" />
   </Folder>
   <Project Path="src/inventory-orders-api.Contracts/inventory-orders-api.Contracts.csproj" />
   <Project Path="src/inventory-orders-api.Desktop/inventory-orders-api.Desktop.csproj" Id="6f1be2d6-199f-4427-b81b-a24cc6765d34" />
