@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\source\\repos\\inventory-orders-api\\inventory-orders-api.Desktop\\inventory-orders-api.Desktop.csproj",
+      "projectUniqueName": "C:\\Users\\thoma\\source\\repos\\inventory-orders-api\\src\\inventory-orders-api.Desktop\\inventory-orders-api.Desktop.csproj",
       "projectName": "inventory-orders-api.Desktop",
-      "projectPath": "C:\\Users\\thoma\\source\\repos\\inventory-orders-api\\inventory-orders-api.Desktop\\inventory-orders-api.Desktop.csproj",
+      "projectPath": "C:\\Users\\thoma\\source\\repos\\inventory-orders-api\\src\\inventory-orders-api.Desktop\\inventory-orders-api.Desktop.csproj",
       "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\source\\repos\\inventory-orders-api\\inventory-orders-api.Desktop\\obj\\",
+      "outputPath": "C:\\Users\\thoma\\source\\repos\\inventory-orders-api\\src\\inventory-orders-api.Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
