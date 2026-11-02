@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inventory-orders-api.Desktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a66289320835cf9d3addf471bea12c1b41813f42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bff3a8a1eab83d692bb039624ff31823dbbbb1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("inventory-orders-api.Desktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inventory-orders-api.Desktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

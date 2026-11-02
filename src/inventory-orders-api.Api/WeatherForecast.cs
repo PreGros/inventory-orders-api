@@ -1,4 +1,4 @@
-namespace inventory_orders_api
+namespace inventory_orders_api.Api
 {
     public class WeatherForecast
     {

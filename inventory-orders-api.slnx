@@ -4,7 +4,7 @@
     <File Path=".gitignore" />
     <File Path="docker-compose.yml" />
   </Folder>
+  <Project Path="src/inventory-orders-api.Api/inventory-orders-api.Api.csproj" Id="c7fc2846-1047-4559-bb7f-df01b6f724d6" />
   <Project Path="src/inventory-orders-api.Contracts/inventory-orders-api.Contracts.csproj" />
   <Project Path="src/inventory-orders-api.Desktop/inventory-orders-api.Desktop.csproj" Id="6f1be2d6-199f-4427-b81b-a24cc6765d34" />
-  <Project Path="src/inventory-orders-api/inventory-orders-api.csproj" />
 </Solution>
